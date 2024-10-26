@@ -1,0 +1,11 @@
+.toggle{
+    display: flex;
+}
+.active{
+    background-color: blue;
+    color: white;
+}
+.btn{
+    padding: 15px;
+    cursor: pointer;
+}

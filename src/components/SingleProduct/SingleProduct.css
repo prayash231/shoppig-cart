@@ -1,0 +1,19 @@
+.card{
+    width: 300px;
+    border: 1px solid gray;
+    margin: 3px;
+    text-align: center;
+    box-shadow: 4px 4px 8px gray;
+    border-radius: 6px;
+}
+.img{
+    width: 100%;
+}
+.card button{
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.selected-img{
+    width: 50px;
+}

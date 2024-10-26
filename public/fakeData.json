@@ -1,0 +1,58 @@
+{
+  "products": [
+    {
+        "id": 1,
+        "name": "Wireless Bluetooth Headphones",
+        "image": "https://i.ibb.co.com/F5qyXqq/wireless-bluetooth-headphones.jpg",
+        "description": "High-quality wireless Bluetooth headphones with noise-cancelling features and 20-hour battery life.",
+        "price": 79.99,
+        "category": "Electronics",
+        "isFeature": true
+    },
+    {
+        "id": 2,
+        "name": "Smart Fitness Watch",
+        "image": "https://i.ibb.co.com/6Ff1mzX/smart-fitness-watch.jpg",
+        "description": "Track your heart rate, steps, and sleep with this sleek and water-resistant fitness watch.",
+        "price": 149.5,
+        "category": "Wearables",
+        "isFeature": true
+    },
+    {
+        "id": 3,
+        "name": "Ergonomic Office Chair",
+        "image": "https://i.ibb.co.com/s2Bdrx7/ergonomic-office-chair.jpg",
+        "description": "Comfortable and adjustable office chair with lumbar support for long working hours.",
+        "price": 199.99,
+        "category": "Furniture",
+        "isFeature": false
+    },
+    {
+        "id": 4,
+        "name": "4K Ultra HD Smart TV",
+        "image": "https://i.ibb.co.com/VmrWj5s/smart-tv.jpg",
+        "description": "Enjoy crystal-clear images with this 55-inch 4K Ultra HD Smart TV featuring streaming apps and voice control.",
+        "price": 499.99,
+        "category": "Electronics",
+        "isFeature": true
+    },
+    {
+        "id": 5,
+        "name": "Stainless Steel Water Bottle",
+        "image": "https://i.ibb.co.com/YB1SXyT/water-bottle.jpg",
+        "description": "Eco-friendly, reusable stainless steel water bottle with a double-wall design to keep drinks cold or hot for hours.",
+        "price": 25.99,
+        "category": "Accessories",
+        "isFeature": false
+    },
+    {
+        "id": 6,
+        "name": "Gaming Laptop",
+        "image": "https://i.ibb.co.com/k3m77kY/gaming-laptop.jpg",
+        "description": "High-performance gaming laptop with a 144Hz display, 16GB RAM, and 1TB SSD for smooth gameplay.",
+        "price": 1299.99,
+        "category": "Computers",
+        "isFeature": true
+    }
+  ]
+}
